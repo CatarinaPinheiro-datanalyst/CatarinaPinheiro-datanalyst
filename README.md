@@ -85,7 +85,7 @@ I'm a **Data Analyst** with a background in **Business Intelligence and Analytic
 <img 
     align="left" 
     alt="Spanish" 
-    title="Spanish (Intermediate)" 
+    title="Spanish (Fluent)" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn-icons-png.flaticon.com/512/197/197593.png" 
