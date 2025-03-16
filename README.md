@@ -64,6 +64,38 @@ I'm a **Data Analyst** with a background in **Business Intelligence and Analytic
 
 ---
 
+### 🌍 Languages  
+
+<img 
+    align="left" 
+    alt="Portuguese" 
+    title="Portuguese (Native)" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn-icons-png.flaticon.com/512/197/197463.png" 
+/>
+<img 
+    align="left" 
+    alt="English" 
+    title="English (Fluent)" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn-icons-png.flaticon.com/512/197/197374.png" 
+/>
+<img 
+    align="left" 
+    alt="Spanish" 
+    title="Spanish (Intermediate)" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn-icons-png.flaticon.com/512/197/197593.png" 
+/>
+
+<br/>
+<br/>
+
+---
+
 ### 📫 Contact  
 📧 catarinafvp@gmail.com  
 🔗 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/catarina-pinheiro-a1b987186/)  
