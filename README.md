@@ -1,10 +1,10 @@
 ## 👋 Hi, I'm Catarina Pinheiro!  
 
-**Data Analyst | Business Analyst**  
+**Junior Data Analyst | Business Analyst**  
 Passionate about turning data into actionable insights  
 
 ### 👩🏻‍💻 About Me  
-I'm a **Data Analyst** with a background in **Business Intelligence and Analytics**, combining technical expertise with hands-on experience in customer service and education. I specialize in **data transformation and visualization**, leveraging tools like **Excel, SQL, Power BI and Python** to extract value and support decision-making.   
+I'm a **Junior Data Analyst** with a background in **Business Intelligence and Analytics**, combining technical expertise with hands-on experience in customer service and education. I specialize in **data transformation and visualization**, leveraging tools like **Excel, SQL, Power BI and Python** to extract value and support decision-making.   
 
 ---
 
